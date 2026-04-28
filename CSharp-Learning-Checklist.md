@@ -4,7 +4,7 @@
 
 - [X] Program structure and entry point
 - [X] Variables and types (string, int, double, bool)
-- [ ] Properties vs fields
+- [X] Properties vs fields
 - [ ] Constructors
 - [ ] Methods and access modifiers
 - [ ] Nullability and the null-forgiving operator (!)
