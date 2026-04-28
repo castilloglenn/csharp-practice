@@ -3,7 +3,7 @@
 ## C# Basics
 
 - [ ] Program structure and entry point
-- [ ] Variables and types (string, int, double, bool)
+- [X] Variables and types (string, int, double, bool)
 - [ ] Properties vs fields
 - [ ] Constructors
 - [ ] Methods and access modifiers
