@@ -14,8 +14,10 @@ class Program
             Console.WriteLine(nullableString);
         }
 
-        int parsedNumber = int.Parse(nullableString!);
+        int parsedNumber = int.TryParse(nullableString, out int r) ? r : 0;
         Console.WriteLine(parsedNumber);
+
+        Console.WriteLine("Args: " + string.Join(", ", args));
 
         Console.WriteLine("Done!");
     }

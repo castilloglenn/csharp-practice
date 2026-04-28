@@ -2,7 +2,7 @@
 
 ## C# Basics
 
-- [ ] Program structure and entry point
+- [X] Program structure and entry point
 - [X] Variables and types (string, int, double, bool)
 - [ ] Properties vs fields
 - [ ] Constructors
